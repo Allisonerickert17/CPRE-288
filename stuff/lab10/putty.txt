@@ -1,0 +1,25 @@
+Enter amount to move servo: 6879
+ Moving servo: 759 degrees 
+Moved servo: 51633 Clock Cycles 
+Enter amount to move servo: 182
+ Moving servo: 182 degrees 
+Moved servo: 57678 Clock Cycles 
+Enter amount to move servo: 162
+ Moving servo: 162 degrees 
+Moved servo: 29056 Clock Cycles 
+Enter amount to move servo: 000
+ Moving servo: 0 degrees 
+Moved servo: 57856 Clock Cycles 
+Enter amount to move servo: 1-35-35
+ Moving servo: -285 degrees 
+Moved servo: 10808 Clock Cycles 
+Enter amount to move servo: Enter amount to move servo: 200
+ Moving servo: 200 degrees 
+Moved servo: 54478 Clock Cycles 
+Enter amount to move servo: Enter amount to move servo: Enter amount to move servo: 090
+ Moving servo: 90 degrees 
+Moved servo: 41856 Clock Cycles 
+Enter amount to move servo: 90-35
+ Moving servo: 865 degrees 
+Moved servo: 32789 Clock Cycles 
+Enter amount to move servo: Enter amount to move servo: Enter amount to move servo: Enter amount to move servo: 
