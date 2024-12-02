@@ -1,0 +1,574 @@
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Switched to Autonomous Mode. Press 'h' to start scanning and moving.
+
+IR Scan Results:
+Angle	IR Distance (cm)
+--------------------------
+Angle: 0	IR Distance: 50 cm
+Angle: 2	IR Distance: 50 cm
+Angle: 4	IR Distance: 50 cm
+Angle: 6	IR Distance: 50 cm
+Angle: 8	IR Distance: 50 cm
+Angle: 10	IR Distance: 50 cm
+Angle: 12	IR Distance: 50 cm
+Angle: 14	IR Distance: 50 cm
+Angle: 16	IR Distance: 50 cm
+Angle: 18	IR Distance: 50 cm
+Angle: 20	IR Distance: 50 cm
+Angle: 22	IR Distance: 50 cm
+Angle: 24	IR Distance: 50 cm
+Angle: 26	IR Distance: 50 cm
+Angle: 28	IR Distance: 50 cm
+Angle: 30	IR Distance: 50 cm
+Angle: 32	IR Distance: 50 cm
+Angle: 34	IR Distance: 50 cm
+Angle: 36	IR Distance: 50 cm
+Angle: 38	IR Distance: 50 cm
+Angle: 40	IR Distance: 50 cm
+Angle: 42	IR Distance: 50 cm
+Angle: 44	IR Distance: 50 cm
+Angle: 46	IR Distance: 50 cm
+Angle: 48	IR Distance: 50 cm
+Angle: 50	IR Distance: 50 cm
+Angle: 52	IR Distance: 50 cm
+Angle: 54	IR Distance: 50 cm
+Angle: 56	IR Distance: 50 cm
+Angle: 58	IR Distance: 50 cm
+Angle: 60	IR Distance: 9 cm
+Angle: 62	IR Distance: 9 cm
+Angle: 64	IR Distance: 9 cm
+Angle: 66	IR Distance: 9 cm
+Angle: 68	IR Distance: 9 cm
+Angle: 70	IR Distance: 9 cm
+Angle: 72	IR Distance: 9 cm
+Angle: 74	IR Distance: 9 cm
+Angle: 76	IR Distance: 50 cm
+Angle: 78	IR Distance: 50 cm
+Angle: 80	IR Distance: 50 cm
+Angle: 82	IR Distance: 50 cm
+Angle: 84	IR Distance: 50 cm
+Angle: 86	IR Distance: 50 cm
+Angle: 88	IR Distance: 50 cm
+Angle: 90	IR Distance: 50 cm
+Angle: 92	IR Distance: 50 cm
+Angle: 94	IR Distance: 50 cm
+Angle: 96	IR Distance: 50 cm
+Angle: 98	IR Distance: 50 cm
+Angle: 100	IR Distance: 50 cm
+Angle: 102	IR Distance: 23 cm
+Angle: 104	IR Distance: 9 cm
+Angle: 106	IR Distance: 9 cm
+Angle: 108	IR Distance: 9 cm
+Angle: 110	IR Distance: 9 cm
+Angle: 112	IR Distance: 11 cm
+Angle: 114	IR Distance: 50 cm
+Angle: 116	IR Distance: 50 cm
+Angle: 118	IR Distance: 49 cm
+Angle: 120	IR Distance: 48 cm
+Angle: 122	IR Distance: 45 cm
+Angle: 124	IR Distance: 47 cm
+Angle: 126	IR Distance: 45 cm
+Angle: 128	IR Distance: 44 cm
+Angle: 130	IR Distance: 38 cm
+Angle: 132	IR Distance: 38 cm
+Angle: 134	IR Distance: 36 cm
+Angle: 136	IR Distance: 35 cm
+Angle: 138	IR Distance: 35 cm
+Angle: 140	IR Distance: 36 cm
+Angle: 142	IR Distance: 38 cm
+Angle: 144	IR Distance: 41 cm
+Angle: 146	IR Distance: 45 cm
+Angle: 148	IR Distance: 45 cm
+Angle: 150	IR Distance: 50 cm
+Angle: 152	IR Distance: 49 cm
+Angle: 154	IR Distance: 50 cm
+Angle: 156	IR Distance: 50 cm
+Angle: 158	IR Distance: 50 cm
+Angle: 160	IR Distance: 50 cm
+Angle: 162	IR Distance: 50 cm
+Angle: 164	IR Distance: 50 cm
+Angle: 166	IR Distance: 50 cm
+Angle: 168	IR Distance: 50 cm
+Angle: 170	IR Distance: 50 cm
+Angle: 172	IR Distance: 50 cm
+Angle: 174	IR Distance: 50 cm
+Angle: 176	IR Distance: 50 cm
+Angle: 178	IR Distance: 50 cm
+Angle: 180	IR Distance: 50 cm
+
+Detected Objects:
+Object	Start Angle	End Angle
+--------------------------------
+Object 1	60		76
+Object 2	102		114
+Object 3	118		150
+Object 4	152		154
+
+Refined PING Measurement Results:
+Object	Mid Angle	PING Distance (cm)
+--------------------------------------
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Switched to Autonomous Mode. Press 'h' to start scanning and moving.
+
+IR Scan Results:
+Angle	IR Distance (cm)
+--------------------------
+Angle: 0	IR Distance: 50 cm
+Angle: 2	IR Distance: 50 cm
+Angle: 4	IR Distance: 50 cm
+Angle: 6	IR Distance: 50 cm
+Angle: 8	IR Distance: 50 cm
+Angle: 10	IR Distance: 50 cm
+Angle: 12	IR Distance: 50 cm
+Angle: 14	IR Distance: 50 cm
+Angle: 16	IR Distance: 50 cm
+Angle: 18	IR Distance: 50 cm
+Angle: 20	IR Distance: 50 cm
+Angle: 22	IR Distance: 50 cm
+Angle: 24	IR Distance: 50 cm
+Angle: 26	IR Distance: 50 cm
+Angle: 28	IR Distance: 50 cm
+Angle: 30	IR Distance: 50 cm
+Angle: 32	IR Distance: 50 cm
+Angle: 34	IR Distance: 50 cm
+Angle: 36	IR Distance: 50 cm
+Angle: 38	IR Distance: 50 cm
+Angle: 40	IR Distance: 50 cm
+Angle: 42	IR Distance: 50 cm
+Angle: 44	IR Distance: 50 cm
+Angle: 46	IR Distance: 50 cm
+Angle: 48	IR Distance: 50 cm
+Angle: 50	IR Distance: 50 cm
+Angle: 52	IR Distance: 50 cm
+Angle: 54	IR Distance: 50 cm
+Angle: 56	IR Distance: 50 cm
+Angle: 58	IR Distance: 50 cm
+Angle: 60	IR Distance: 50 cm
+Angle: 62	IR Distance: 50 cm
+Angle: 64	IR Distance: 50 cm
+Angle: 66	IR Distance: 50 cm
+Angle: 68	IR Distance: 50 cm
+Angle: 70	IR Distance: 50 cm
+Angle: 72	IR Distance: 47 cm
+Angle: 74	IR Distance: 50 cm
+Angle: 76	IR Distance: 49 cm
+Angle: 78	IR Distance: 46 cm
+Angle: 80	IR Distance: 39 cm
+Angle: 82	IR Distance: 44 cm
+Angle: 84	IR Distance: 38 cm
+Angle: 86	IR Distance: 44 cm
+Angle: 88	IR Distance: 38 cm
+Angle: 90	IR Distance: 45 cm
+Angle: 92	IR Distance: 44 cm
+Angle: 94	IR Distance: 46 cm
+Angle: 96	IR Distance: 49 cm
+Angle: 98	IR Distance: 47 cm
+Angle: 100	IR Distance: 43 cm
+Angle: 102	IR Distance: 50 cm
+Angle: 104	IR Distance: 50 cm
+Angle: 106	IR Distance: 50 cm
+Angle: 108	IR Distance: 50 cm
+Angle: 110	IR Distance: 50 cm
+Angle: 112	IR Distance: 50 cm
+Angle: 114	IR Distance: 50 cm
+Angle: 116	IR Distance: 50 cm
+Angle: 118	IR Distance: 50 cm
+Angle: 120	IR Distance: 50 cm
+Angle: 122	IR Distance: 50 cm
+Angle: 124	IR Distance: 50 cm
+Angle: 126	IR Distance: 50 cm
+Angle: 128	IR Distance: 50 cm
+Angle: 130	IR Distance: 50 cm
+Angle: 132	IR Distance: 50 cm
+Angle: 134	IR Distance: 50 cm
+Angle: 136	IR Distance: 50 cm
+Angle: 138	IR Distance: 50 cm
+Angle: 140	IR Distance: 50 cm
+Angle: 142	IR Distance: 50 cm
+Angle: 144	IR Distance: 50 cm
+Angle: 146	IR Distance: 50 cm
+Angle: 148	IR Distance: 50 cm
+Angle: 150	IR Distance: 50 cm
+Angle: 152	IR Distance: 50 cm
+Angle: 154	IR Distance: 50 cm
+Angle: 156	IR Distance: 50 cm
+Angle: 158	IR Distance: 50 cm
+Angle: 160	IR Distance: 50 cm
+Angle: 162	IR Distance: 50 cm
+Angle: 164	IR Distance: 50 cm
+Angle: 166	IR Distance: 50 cm
+Angle: 168	IR Distance: 50 cm
+Angle: 170	IR Distance: 50 cm
+Angle: 172	IR Distance: 50 cm
+Angle: 174	IR Distance: 50 cm
+Angle: 176	IR Distance: 50 cm
+Angle: 178	IR Distance: 50 cm
+Angle: 180	IR Distance: 50 cm
+
+Detected Objects:
+Object	Start Angle	End Angle
+--------------------------------
+Object 1	72		74
+Object 2	76		102
+
+Refined PING Measurement Results:
+Object	Mid Angle	PING Distance (cm)
+--------------------------------------
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Switched to Autonomous Mode. Press 'h' to start scanning and moving.
+
+IR Scan Results:
+Angle	IR Distance (cm)
+--------------------------
+Angle: 0	IR Distance: 50 cm
+Angle: 2	IR Distance: 50 cm
+Angle: 4	IR Distance: 50 cm
+Angle: 6	IR Distance: 50 cm
+Angle: 8	IR Distance: 50 cm
+Angle: 10	IR Distance: 50 cm
+Angle: 12	IR Distance: 50 cm
+Angle: 14	IR Distance: 50 cm
+Angle: 16	IR Distance: 50 cm
+Angle: 18	IR Distance: 50 cm
+Angle: 20	IR Distance: 50 cm
+Angle: 22	IR Distance: 50 cm
+Angle: 24	IR Distance: 50 cm
+Angle: 26	IR Distance: 50 cm
+Angle: 28	IR Distance: 50 cm
+Angle: 30	IR Distance: 50 cm
+Angle: 32	IR Distance: 50 cm
+Angle: 34	IR Distance: 50 cm
+Angle: 36	IR Distance: 50 cm
+Angle: 38	IR Distance: 50 cm
+Angle: 40	IR Distance: 50 cm
+Angle: 42	IR Distance: 50 cm
+Angle: 44	IR Distance: 50 cm
+Angle: 46	IR Distance: 50 cm
+Angle: 48	IR Distance: 50 cm
+Angle: 50	IR Distance: 50 cm
+Angle: 52	IR Distance: 50 cm
+Angle: 54	IR Distance: 50 cm
+Angle: 56	IR Distance: 50 cm
+Angle: 58	IR Distance: 50 cm
+Angle: 60	IR Distance: 50 cm
+Angle: 62	IR Distance: 50 cm
+Angle: 64	IR Distance: 50 cm
+Angle: 66	IR Distance: 50 cm
+Angle: 68	IR Distance: 50 cm
+Angle: 70	IR Distance: 50 cm
+Angle: 72	IR Distance: 50 cm
+Angle: 74	IR Distance: 50 cm
+Angle: 76	IR Distance: 50 cm
+Angle: 78	IR Distance: 50 cm
+Angle: 80	IR Distance: 50 cm
+Angle: 82	IR Distance: 50 cm
+Angle: 84	IR Distance: 50 cm
+Angle: 86	IR Distance: 50 cm
+Angle: 88	IR Distance: 50 cm
+Angle: 90	IR Distance: 50 cm
+Angle: 92	IR Distance: 50 cm
+Angle: 94	IR Distance: 50 cm
+Angle: 96	IR Distance: 50 cm
+Angle: 98	IR Distance: 50 cm
+Angle: 100	IR Distance: 50 cm
+Angle: 102	IR Distance: 50 cm
+Angle: 104	IR Distance: 50 cm
+Angle: 106	IR Distance: 50 cm
+Angle: 108	IR Distance: 50 cm
+Angle: 110	IR Distance: 50 cm
+Angle: 112	IR Distance: 50 cm
+Angle: 114	IR Distance: 50 cm
+Angle: 116	IR Distance: 50 cm
+Angle: 118	IR Distance: 50 cm
+Angle: 120	IR Distance: 50 cm
+Angle: 122	IR Distance: 50 cm
+Angle: 124	IR Distance: 50 cm
+Angle: 126	IR Distance: 50 cm
+Angle: 128	IR Distance: 50 cm
+Angle: 130	IR Distance: 50 cm
+Angle: 132	IR Distance: 50 cm
+Angle: 134	IR Distance: 50 cm
+Angle: 136	IR Distance: 50 cm
+Angle: 138	IR Distance: 50 cm
+Angle: 140	IR Distance: 50 cm
+Angle: 142	IR Distance: 50 cm
+Angle: 144	IR Distance: 50 cm
+Angle: 146	IR Distance: 50 cm
+Angle: 148	IR Distance: 50 cm
+Angle: 150	IR Distance: 50 cm
+Angle: 152	IR Distance: 50 cm
+Angle: 154	IR Distance: 50 cm
+Angle: 156	IR Distance: 50 cm
+Angle: 158	IR Distance: 50 cm
+Angle: 160	IR Distance: 50 cm
+Angle: 162	IR Distance: 50 cm
+Angle: 164	IR Distance: 50 cm
+Angle: 166	IR Distance: 50 cm
+Angle: 168	IR Distance: 50 cm
+Angle: 170	IR Distance: 50 cm
+Angle: 172	IR Distance: 50 cm
+Angle: 174	IR Distance: 50 cm
+Angle: 176	IR Distance: 50 cm
+Angle: 178	IR Distance: 50 cm
+Angle: 180	IR Distance: 50 cm
+
+Detected Objects:
+Object	Start Angle	End Angle
+--------------------------------
+
+Refined PING Measurement Results:
+Object	Mid Angle	PING Distance (cm)
+--------------------------------------
+
+No objects detected.
+No objects detected. Press 'h' to scan again.
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+ê˛Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Right bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Right bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Right bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Switched to Autonomous Mode. Press 'h' to start scanning and moving.
+
+IR Scan Results:
+Angle	IR Distance (cm)
+--------------------------
+Angle: 0	IR Distance: 17 cm
+Angle: 2	IR Distance: 19 cm
+Angle: 4	IR Distance: 50 cm
+Angle: 6	IR Distance: 50 cm
+Angle: 8	IR Distance: 50 cm
+Angle: 10	IR Distance: 50 cm
+Angle: 12	IR Distance: 50 cm
+Angle: 14	IR Distance: 50 cm
+Angle: 16	IR Distance: 50 cm
+Angle: 18	IR Distance: 50 cm
+Angle: 20	IR Distance: 50 cm
+Angle: 22	IR Distance: 50 cm
+Angle: 24	IR Distance: 50 cm
+Angle: 26	IR Distance: 50 cm
+Angle: 28	IR Distance: 50 cm
+Angle: 30	IR Distance: 50 cm
+Angle: 32	IR Distance: 50 cm
+Angle: 34	IR Distance: 50 cm
+Angle: 36	IR Distance: 50 cm
+Angle: 38	IR Distance: 50 cm
+Angle: 40	IR Distance: 30 cm
+Angle: 42	IR Distance: 9 cm
+Angle: 44	IR Distance: 9 cm
+Angle: 46	IR Distance: 9 cm
+Angle: 48	IR Distance: 9 cm
+Angle: 50	IR Distance: 9 cm
+Angle: 52	IR Distance: 9 cm
+Angle: 54	IR Distance: 9 cm
+Angle: 56	IR Distance: 9 cm
+Angle: 58	IR Distance: 9 cm
+Angle: 60	IR Distance: 9 cm
+Angle: 62	IR Distance: 9 cm
+Angle: 64	IR Distance: 9 cm
+Angle: 66	IR Distance: 17 cm
+Angle: 68	IR Distance: 17 cm
+Angle: 70	IR Distance: 16 cm
+Angle: 72	IR Distance: 13 cm
+Angle: 74	IR Distance: 11 cm
+Angle: 76	IR Distance: 14 cm
+Angle: 78	IR Distance: 18 cm
+Angle: 80	IR Distance: 20 cm
+Angle: 82	IR Distance: 20 cm
+Angle: 84	IR Distance: 21 cm
+Angle: 86	IR Distance: 20 cm
+Angle: 88	IR Distance: 19 cm
+Angle: 90	IR Distance: 18 cm
+Angle: 92	IR Distance: 16 cm
+Angle: 94	IR Distance: 16 cm
+Angle: 96	IR Distance: 15 cm
+Angle: 98	IR Distance: 16 cm
+Angle: 100	IR Distance: 16 cm
+Angle: 102	IR Distance: 17 cm
+Angle: 104	IR Distance: 17 cm
+Angle: 106	IR Distance: 18 cm
+Angle: 108	IR Distance: 18 cm
+Angle: 110	IR Distance: 18 cm
+Angle: 112	IR Distance: 19 cm
+Angle: 114	IR Distance: 20 cm
+Angle: 116	IR Distance: 21 cm
+Angle: 118	IR Distance: 24 cm
+Angle: 120	IR Distance: 41 cm
+Angle: 122	IR Distance: 21 cm
+Angle: 124	IR Distance: 19 cm
+Angle: 126	IR Distance: 20 cm
+Angle: 128	IR Distance: 21 cm
+Angle: 130	IR Distance: 20 cm
+Angle: 132	IR Distance: 22 cm
+Angle: 134	IR Distance: 25 cm
+Angle: 136	IR Distance: 25 cm
+Angle: 138	IR Distance: 27 cm
+Angle: 140	IR Distance: 28 cm
+Angle: 142	IR Distance: 30 cm
+Angle: 144	IR Distance: 32 cm
+Angle: 146	IR Distance: 36 cm
+Angle: 148	IR Distance: 39 cm
+Angle: 150	IR Distance: 47 cm
+Angle: 152	IR Distance: 50 cm
+Angle: 154	IR Distance: 50 cm
+Angle: 156	IR Distance: 50 cm
+Angle: 158	IR Distance: 50 cm
+Angle: 160	IR Distance: 50 cm
+Angle: 162	IR Distance: 50 cm
+Angle: 164	IR Distance: 50 cm
+Angle: 166	IR Distance: 50 cm
+Angle: 168	IR Distance: 50 cm
+Angle: 170	IR Distance: 50 cm
+Angle: 172	IR Distance: 50 cm
+Angle: 174	IR Distance: 50 cm
+Angle: 176	IR Distance: 50 cm
+Angle: 178	IR Distance: 50 cm
+Angle: 180	IR Distance: 50 cm
+
+Detected Objects:
+Object	Start Angle	End Angle
+--------------------------------
+Object 1	0		4
+Object 2	40		152
+
+Refined PING Measurement Results:
+Object	Mid Angle	PING Distance (cm)
+--------------------------------------
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Left bump sensor activated. Taking evasive action.
+
+Press 't' to toggle modes (Manual/Autonomous), 'h' to proceed in autonomous mode, or 'q' to quit.
+Switched to Autonomous Mode. Press 'h' to start scanning and moving.
+
+IR Scan Results:
+Angle	IR Distance (cm)
+--------------------------
+Angle: 0	IR Distance: 50 cm
+Angle: 2	IR Distance: 50 cm
+Angle: 4	IR Distance: 50 cm
+Angle: 6	IR Distance: 16 cm
+Angle: 8	IR Distance: 24 cm
+Angle: 10	IR Distance: 50 cm
+Angle: 12	IR Distance: 50 cm
+Angle: 14	IR Distance: 50 cm
+Angle: 16	IR Distance: 50 cm
+Angle: 18	IR Distance: 50 cm
+Angle: 20	IR Distance: 50 cm
+Angle: 22	IR Distance: 50 cm
+Angle: 24	IR Distance: 50 cm
+Angle: 26	IR Distance: 50 cm
+Angle: 28	IR Distance: 50 cm
+Angle: 30	IR Distance: 50 cm
+Angle: 32	IR Distance: 50 cm
+Angle: 34	IR Distance: 36 cm
+Angle: 36	IR Distance: 33 cm
+Angle: 38	IR Distance: 29 cm
+Angle: 40	IR Distance: 25 cm
+Angle: 42	IR Distance: 25 cm
+Angle: 44	IR Distance: 21 cm
+Angle: 46	IR Distance: 21 cm
+Angle: 48	IR Distance: 20 cm
+Angle: 50	IR Distance: 19 cm
+Angle: 52	IR Distance: 18 cm
+Angle: 54	IR Distance: 18 cm
+Angle: 56	IR Distance: 17 cm
+Angle: 58	IR Distance: 17 cm
+Angle: 60	IR Distance: 16 cm
+Angle: 62	IR Distance: 16 cm
+Angle: 64	IR Distance: 16 cm
+Angle: 66	IR Distance: 15 cm
+Angle: 68	IR Distance: 15 cm
+Angle: 70	IR Distance: 14 cm
+Angle: 72	IR Distance: 16 cm
+Angle: 74	IR Distance: 17 cm
+Angle: 76	IR Distance: 17 cm
+Angle: 78	IR Distance: 17 cm
+Angle: 80	IR Distance: 18 cm
+Angle: 82	IR Distance: 17 cm
+Angle: 84	IR Distance: 17 cm
+Angle: 86	IR Distance: 16 cm
+Angle: 88	IR Distance: 13 cm
+Angle: 90	IR Distance: 15 cm
+Angle: 92	IR Distance: 15 cm
+Angle: 94	IR Distance: 16 cm
+Angle: 96	IR Distance: 17 cm
+Angle: 98	IR Distance: 16 cm
+Angle: 100	IR Distance: 18 cm
+Angle: 102	IR Distance: 18 cm
+Angle: 104	IR Distance: 18 cm
+Angle: 106	IR Distance: 19 cm
+Angle: 108	IR Distance: 20 cm
+Angle: 110	IR Distance: 38 cm
+Angle: 112	IR Distance: 50 cm
+Angle: 114	IR Distance: 50 cm
+Angle: 116	IR Distance: 50 cm
+Angle: 118	IR Distance: 50 cm
+Angle: 120	IR Distance: 50 cm
+Angle: 122	IR Distance: 50 cm
+Angle: 124	IR Distance: 50 cm
+Angle: 126	IR Distance: 50 cm
+Angle: 128	IR Distance: 50 cm
+Angle: 130	IR Distance: 50 cm
+Angle: 132	IR Distance: 50 cm
+Angle: 134	IR Distance: 50 cm
+Angle: 136	IR Distance: 50 cm
+Angle: 138	IR Distance: 50 cm
+Angle: 140	IR Distance: 50 cm
+Angle: 142	IR Distance: 18 cm
+Angle: 144	IR Distance: 47 cm
+Angle: 146	IR Distance: 39 cm
+Angle: 148	IR Distance: 39 cm
+Angle: 150	IR Distance: 50 cm
+Angle: 152	IR Distance: 50 cm
+Angle: 154	IR Distance: 50 cm
+Angle: 156	IR Distance: 50 cm
+Angle: 158	IR Distance: 50 cm
+Angle: 160	IR Distance: 50 cm
+Angle: 162	IR Distance: 50 cm
+Angle: 164	IR Distance: 50 cm
+Angle: 166	IR Distance: 50 cm
+Angle: 168	IR Distance: 50 cm
+Angle: 170	IR Distance: 50 cm
+Angle: 172	IR Distance: 50 cm
+Angle: 174	IR Distance: 50 cm
+Angle: 176	IR Distance: 50 cm
+Angle: 178	IR Distance: 50 cm
+Angle: 180	IR Distance: 50 cm
+
+Detected Objects:
+Object	Start Angle	End Angle
+--------------------------------
+Object 1	6		10
+Object 2	34		112
+Object 3	142		150
+
+Refined PING Measurement Results:
+Object	Mid Angle	PING Distance (cm)
+--------------------------------------
